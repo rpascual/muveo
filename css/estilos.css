@@ -38,12 +38,18 @@ body{
     width: 50%;
     height: 20%;
     border: solid;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #b2d8d8;
 }
 
 #trabajo{
     width: 50%;
     height: 20%;
     border: solid;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #b2d8d8;
 }
 
 #lema{
